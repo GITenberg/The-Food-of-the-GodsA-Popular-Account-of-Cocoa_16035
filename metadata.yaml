@@ -1,0 +1,26 @@
+_repo: The-Food-of-the-GodsA-Popular-Account-of-Cocoa_16035
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Head, Brandon
+    gutenberg_agent_id: '6434'
+    url: http://www.gutenberg.org/2009/agents/6434
+description: ''
+gutenberg_issued: '2005-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cocoa'
+title: 'The Food of the Gods
+
+  A Popular Account of Cocoa'
+url: http://www.gutenberg.org/ebooks/16035
